@@ -2,10 +2,8 @@
 
 Homebrew tap for `agentzap`.
 
-## Install (HEAD for now)
+## Install
 ```
 brew tap victorarias/agentzap
-brew install --HEAD agentzap
+brew install agentzap
 ```
-
-This will switch to a stable release formula once `agentzap` publishes tagged releases.
